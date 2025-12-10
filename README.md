@@ -32,6 +32,8 @@
 * Meeting Client and User needs
 * Scalability and Future Improvements
 * Legal and Regulatory Compliance
+
+
 # Activity B
 
 ## What You must include
@@ -45,9 +47,12 @@
 
 ## The Design
 * Include user interface for each design
-* Add user Journeys
+* Add user Journeys (use user personas from previous task)  (STEP/ ACTION/ TOUCHPOINT/ THOUGHT/FEELINGS/ PAIN POINTS/ OPPORTUNITIES)
 * Annotate Accessability Features
+* Complete accessability checklist (FEATURE/ HOW IT SUPPORTS/ IMPLEMENTS/ IMPACT IF NOT INCLUDED)
 * Use consistent colour scheme and fonts (use coolors.io)
+* Annotate them with their #  number (found on coolors.io and arrays same as # just ["etc", "etc"])
+* WCAG compliance use https://webaim.org/resources/contrastchecker/
 * white space
 * Key info in BIG text
 * common conventions
@@ -79,13 +84,14 @@ Basic Low Level One Process
 ### COMMUNICATE LOGIC THROUGHOUT
 
 ## Alogorithms 
-* 5 complex Algorithms
+*No more than 5 complex Algorithms
 * Flowchart for non-Technical users
 * Pseudocode for technical users
 * Precise Logic
 * Clearly defined
 * KEEP SIMPLE
 * COMMUNICATE LOGIC THROUGHOUT
+* If Flowchart is in depth no need for pseudocode
 
 ## Test Strategy 
 * Top Band = Thorough and detailed
