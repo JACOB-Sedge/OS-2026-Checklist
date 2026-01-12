@@ -104,4 +104,17 @@ Basic Low Level One Process
 * Types of Testing (Research on google)
 * Security, Usuability, Beta, Alpha, Functionality
 
+# Coding
+Use C# + SQL
+.NET Framework C#, Desktop, Windows 
+View --> Server Explorer --> Connect to database --> Microsoft Server SQL --> Save where code is --> Call it reasonable name e.g People.db
+labels = lbl.name
+text box = txt.name
+button = btn.name
+groupbox = gbx.name
+
+string connectionstring = ("Click on database in server explorer --> copy connection string in properties")
+To access database features click on arrow next to database
+right click on tables folder and click add table to create new tables 
+right click on stored procedures and click add new stored procedure to create new SQL function
 
