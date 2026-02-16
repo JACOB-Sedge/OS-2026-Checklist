@@ -110,11 +110,12 @@ Basic Low Level One Process
 * from flask import Flask, jsonify, render_template
   import requests
 
+  app = Flask(__name__)
+
+### Testing + Change Log
 * Test Throughout the project and TEST EVERYTHING
 * Put EVERYTHING in the assest log(AI usage, websites used, images and videos used)
 * Consider Accessabiltiy standards
-
-  app = Flask(__name__)
 
 ## API for json
     url = "url"
