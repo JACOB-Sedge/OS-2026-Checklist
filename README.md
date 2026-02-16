@@ -105,16 +105,40 @@ Basic Low Level One Process
 * Security, Usuability, Beta, Alpha, Functionality
 
 # Coding
-* Use C# + SQL
-* .NET Framework C#, Desktop, Windows 
-* View --> Server Explorer --> Connect to database --> Microsoft Server SQL --> Save where code is --> Call it reasonable name e.g People.db
-* labels = lbl.name
-* text box = txt.name
-* button = btn.name
-* groupbox = gbx.name
+* Use HTML + Python + Flask
+* Flak must be downloaded via Command Line
+* from flask import Flask, jsonify, render_template
+  import requests  
 
-* string connectionstring = ("Click on database in server explorer --> copy connection string in properties")
-* To access database features click on arrow next to database
-* right click on tables folder and click add table to create new tables 
-* right click on stored procedures and click add new stored procedure to create new SQL function
+  app = Flask(__name__)
+
+## API for json
+    url = "url"
+    response = requests.get(url)  
+    return jsonify(response.json())
+
+## File Structure 
+* Must be organised Cleanly
+* Name --> Static-->(CSS + JS files )
+* Name --> templates -->(HTML files)
+* name of solution should be app.py (Store this and database in Name)
+
+# Activity 3a 
+* Describe the aim of the feedback (Why + What)
+* Targeted Users and Why (Technical + Non-Technical)
+* What Feedback methods (Surveys(Google Forms) + Interviews) Could use OBS
+* Must put Survey and interview questions into forms
+* Once data is gathered Make Graphs highest rated + Lowest Rated
+
+# Activity 3b
+* Evaulate feedback (What went well + what didn't)
+* If feature didn't work as intended say
+* Discuss what went well and bad
+* Say any legal and ethical considerations
+
+## Evaluate against the requiremments 
+* Functional + Non-Functional Requirements (Did you meet them)
+* KPSIs
+* User Acceptance Criteria
+* Accessibility 
 
