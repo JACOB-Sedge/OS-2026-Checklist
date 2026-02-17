@@ -136,10 +136,17 @@ Basic Low Level One Process
 * Once data is gathered Make Graphs highest rated + Lowest Rated
 
 # Activity 3b
-* Evaulate feedback (What went well + what didn't)
-* If feature didn't work as intended say
-* Discuss what went well and bad
-* Say any legal and ethical considerations
+* Introduction
+* Why you chose Assets (Fonts, colours, images, icons, text, data, layout)
+* Why not other options ?, Legal and Ethical Considerations, Reliability of sources
+* How the prototype meets requirements
+* Functional Requirements
+* Non-Functional Requirements
+* KPIs
+* User Acceptance Criteria (User Feedback)
+* Improvements (Evidence Based)
+* Do 3 improvements
+* Conclusion
 
 ## Evaluate against the requiremments 
 * Functional + Non-Functional Requirements (Did you meet them)
