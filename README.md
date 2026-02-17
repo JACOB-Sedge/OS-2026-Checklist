@@ -145,7 +145,7 @@ Basic Low Level One Process
 * KPIs
 * User Acceptance Criteria (User Feedback)
 * Improvements (Evidence Based)
-* Do 3 improvements
+* Do 3 improvements (How will you imrpove, why?)
 * Conclusion
 
 ## Evaluate against the requiremments 
