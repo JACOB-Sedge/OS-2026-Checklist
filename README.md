@@ -66,11 +66,9 @@
 
 * Enrtity Relationship Diagrams
 
-* Data Dictionaries (Table Name, Field Name, Field Definition, Data Type & Length, Format/Validation Rules, Example)
-
+* Data Dictionaries (Table Name, Field Name, Field Definition, Data Type & Length, Format/Validation Rules, Primary Key, Foreign Key, Example)
 
 * Class Diagrams (Name, Attributes, Methods)
-
 
 ### Data Flow Diagrams 
 * Level 0
@@ -80,8 +78,6 @@ Basic Low Level One Process
 * Level 1
   Multiple Processes in depth, use for technical users
 
-
-### COMMUNICATE LOGIC THROUGHOUT
 
 ## Alogorithms 
 *No more than 5 complex Algorithms
